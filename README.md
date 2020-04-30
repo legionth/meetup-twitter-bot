@@ -1,6 +1,6 @@
 # Meetup Twitter Bot
 
-A simple bot which post messages on a twitter account.
+A simple bot which post messages about a meetup event on a twitter account.
 The scripts purpose is to be used in a Cron-like environment.
 
 ## Quick usage 
