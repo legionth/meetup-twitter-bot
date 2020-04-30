@@ -3,8 +3,6 @@ import datetime
 import json
 from pathlib import Path
 
-print("Starting Twitter Script")
-
 contents = Path('config.json').read_text()
 parsed_json = json.loads(contents)
 
