@@ -1,0 +1,22 @@
+{
+  "consumer-key": "",
+  "consumer-secret": "",
+  "access-key": "",
+  "access-secret": "",
+  "day-of-meetup": 1,
+  "month-of-meetup": 5,
+  "year-of-meetup": 2020,
+  "url": "",
+  "location": "",
+  "city": "#Aachen",
+  "talks": [
+    {
+      "speaker": "",
+      "talk":  ""
+    },
+    {
+      "speaker": "",
+      "talk":  ""
+    }
+  ]
+}
